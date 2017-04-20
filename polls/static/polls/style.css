@@ -1,0 +1,11 @@
+li a {
+    color: green;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-decoration: none;
+}
+
+body {
+    background: white url("images/ugly_face.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
